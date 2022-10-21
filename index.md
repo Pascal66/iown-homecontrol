@@ -1,4 +1,4 @@
-# iown-homecontrol - let's nuke this obscurity to the moon
+## System Key
 
 `34C3466ED88F4E8E16AA473949884373`
 
