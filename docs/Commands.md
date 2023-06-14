@@ -2279,6 +2279,9 @@ Command ID=0, Originator=1 (User), ACEI=0x43, MainParam=0xD200 (Current), FP1=0,
 - Command ID: 0x0c (1 byte)
 - Data? (4 bytes)
 
+### 19:
+- Seen : CMD 19  DATA 02 / 03 / 04 / 07
+
 ### 1A: Answer: Set Sensor Value
 
 ### 20: Private Protocol ("Write Private")
