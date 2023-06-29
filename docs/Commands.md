@@ -2695,6 +2695,7 @@ See General Info 2 for decoding
 - ?? (1 byte)
 
 > **Note**: Some kind of Confirmation? I would assume a NACK + ErrorCode
+- 0x05 is NO_ERROR
 
 ### FF Communication Gateway Receiver
 
